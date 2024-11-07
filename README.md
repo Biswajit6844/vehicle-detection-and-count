@@ -26,3 +26,4 @@ Step 7: You have sample_data folder where you can get images to test.
 ![image](https://github.com/user-attachments/assets/0ca2e659-e234-4fbc-a241-15a4e0d23f21)
 
 
+![image](https://github.com/user-attachments/assets/11b32bfe-60c3-4812-aff2-64accd244ec8)
